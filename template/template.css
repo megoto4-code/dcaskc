@@ -1,0 +1,48 @@
+﻿/* 	Template by Tushar
+	tushargoto@gmail.com
+	from Department of Computer Science
+	Karimganj College, Karimganj, Assam, India
+----------------------------------------------------*/
+body {margin:0;background:#F9F9F9 url('images/back.gif') center center no-repeat fixed;font-family:Arial, Helvetica, sans-serif}
+#header_wrap {width:100%;background:url('images/header.gif') #BDE353 repeat-x scroll center;overflow:hidden;margin-bottom:10px;
+box-shadow: 0px 5px 5px #888888;opacity:0.8;-webkit-box-shadow: 0px 5px 5px #888888;-moz-box-shadow: 0px 5px 5px #888888;}
+#header {width:970px;margin:0 auto;text-shadow:0 0 5px #666}
+#header a {text-decoration:none;color:#333333}
+#header #logo {width:75px;height:75px;border:0px;float:left;vertical-align:middle;padding:2px 0}
+#header h1 {width:520px;float:left;font-family:"Times New Roman", Times, serif;margin:20px 10px 0;color:#333333;font-size:25px;}
+#header p {width:300px;float:left;color:#333333;margin:15px 0 0;text-align:left}
+#banner {margin-bottom:10px;text-align:center}
+#left {width: 950px;height: 150px;overflow: hidden;border: 10px solid transparent;border-radius:10px;padding: 0px;clear:both;margin:0 auto;box-shadow:1px 1px 15px #333333}
+#left img {width:190px;height: 150px;margin: 0px;border: 0px;clear:both;}
+#search {border-radius:5px;opacity:0.5;margin:3px 0;border:1px #ccc solid;padding:3px}
+#search:focus {opacity:1}
+#page_content {width:950px;margin:0 auto;border:1px aqua solid;overflow:hidden;padding:10px;background-color:#fff;box-shadow: 0px 0px 15px #888888;opacity:0.9;
+-webkit-box-shadow: 0px 0px 15px #888888;-moz-box-shadow: 0px 0px 15px #888888;}
+#content {padding:10px;color:#333333}
+#content p{line-height:25px;text-align:justify}
+#content img {border:1px #ccc solid;border-radius:5px;padding:5px;box-shadow: 0px 0px 15px #888888;}
+#content ul {list-style:square}
+#copyright {text-align:center;color:#666}
+#home_photo {float:left;margin:0 10px 10px 0;width:500px;height:300px;}
+#notice {float:left;margin:0 10px 10px 0;width:500px;padding:10px;box-shadow: 0px 0px 15px #888888;border-radius:5px;background-color:#C8E670}
+#notice #para{height:260px;overflow-y:auto;padding-right:5px}
+#home_para {width:380px;height:290px;float:right;margin:0;padding:10px;box-shadow: 0px 0px 15px #888888;border-radius:5px;background-color:#C8E670}
+#home_para p {margin:10px;}
+h4 {margin:0;padding:5px;background:url('images/nav.gif') center;color:#fff;border-radius:5px;}
+.more {margin:-20px 10px 0;text-align:right}
+.more a {color:#333;font-weight:bold;text-decoration:none}
+.more a:hover {color:#FFFFFF}
+#contact_principal {width:45%;}
+#contact_ic {width:45%;}
+#contact_form {box-shadow: 0px 0px 15px #888888;border-radius:5px;background-color:#C8E670;padding:10px;margin:0 auto}
+#contact_form input[type=text] {width:50%;padding:5px;}
+#contact_form select {width:51%;padding:5px;}
+#success {width:50%;box-shadow: 0px 0px 15px #888888;border-radius:5px;background-color:#C8E670;padding:10px;margin:0 auto}
+#page_content {border-radius:10px}
+table {border-collapse:collapse;overflow:hidden;background:#C8E673;padding:10px;width:100%;box-shadow: 0px 5px 10px #888888;border-radius:10px;}
+th {background:url('images/nav.gif') center;color:#fff;padding:10px;text-align:left;box-shadow: 0px 1px 5px #888888;}
+td {padding:10px}
+h2,h3 {text-shadow:0 0 4px #666;margin-top:0}
+.middle {text-align:center;width:150px}
+.middle img {border:1px #fff solid;padding:5px;background-color:#CDE881;border-radius:5px;box-shadow: 0px 0px 15px #888888;}
+.jqueryslidemenu ul li ul {width:162px}
